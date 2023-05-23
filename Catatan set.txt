@@ -1,0 +1,18 @@
+set ()
+
+Posisi tidak penting di dalam set, posisi bisa berubahy-rubah di set..
+Set Tidak bisa pake index.
+Jika ada bilangan yang sama di dalam set, maka akan direject diam2, tidak ada bilangan sama yang double.
+Tidak bisa menampilkan bilangan tertentu dalam set, harus akses semua  
+
+Pop = hapus secara random dalam set.
+Discard/remove = hapus secara presisi.
+Discard = silent error.
+Remove = Ada error ditampilkan.
+Clear = hapus all.
+Len = itung panjang 
+
+| (union)
+& (intersection)
+- (difference)
+^  (simetric diference)
